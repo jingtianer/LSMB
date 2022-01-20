@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/setServer_ip"
+        android:title="@string/change_ip"
+        android:orderInCategory="0"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/more"
+        android:title="@string/more"
+        android:orderInCategory="0"
+        app:showAsAction="never"/>
+</menu>

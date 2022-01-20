@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/open" android:title="保存"/>
+    <item android:id="@+id/del" android:title="删除" />
+    <item android:id="@+id/rename" android:title="重命名" />
+    <item android:id="@+id/property" android:title="属性" />
+</menu>
